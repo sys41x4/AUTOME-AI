@@ -1,0 +1,6 @@
+toml
+python-aiml
+playsound==1.2.2
+pyAudio
+pyttsx3
+SpeechRecognition

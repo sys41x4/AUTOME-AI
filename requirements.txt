@@ -1,0 +1,7 @@
+json
+pyttsx3
+aiml
+pyfirmata
+SpeechRecognition
+PyAudio
+serial
